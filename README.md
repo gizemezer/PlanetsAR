@@ -22,7 +22,7 @@
 
 ---
 
-## ✨ Özellikler
+##  Özellikler
 
 -  **8 Gezegen + Galaxy** — Earth, Mars, Jupiter, Mercury, Neptune, Saturn, Uranus, Venus
 -  **3D Dönüş Animasyonları** — Her gezegenin kendi ekseni etrafındaki rotasyonu
@@ -32,15 +32,7 @@
 
 ---
 
-## 📱 Ekran Görüntüleri
-
-| Ana Menü | Mars Sahnesi | Galaxy Sahnesi |
-|----------|-------------|----------------|
-| 9 butonlu gezegen seçim ekranı | Mars'ın 3D dönüş animasyonu | Güneş sistemi yörünge simülasyonu |
-
----
-
-## 🚀 Kurulum & Çalıştırma
+##  Kurulum & Çalıştırma
 
 ### Gereksinimler
 
@@ -100,7 +92,7 @@ MyUnityGame/
 
 ---
 
-## 🧠 Nasıl Çalışır?
+##  Nasıl Çalışır?
 
 ```
 Ana Menü (HomeScreen)
@@ -119,7 +111,7 @@ Ana Menü (HomeScreen)
 
 ---
 
-## 🛠️Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 | Teknoloji | Kullanım Amacı |
 |-----------|---------------|
@@ -131,17 +123,17 @@ Ana Menü (HomeScreen)
 
 ---
 
-## 🎬 İlham Kaynağı
+##  İlham Kaynağı
 
 Bu proje, aşağıdaki YouTube eğitiminden ilham alınarak geliştirilmiştir:
 
 ▶️ [Unity AR Planets Tutorial](https://www.youtube.com/watch?v=FJAO6jDYljs&t=877s)
 
-> **Galaxy yörünge modu** bu projeye özgün olarak eklenmiştir. 🌌
+> **Galaxy yörünge modu** bu projeye özgün olarak eklenmiştir. 
 
 ---
 
-## 👩‍💻 Geliştirici
+## Geliştirici
 
 <div align="center">
 
